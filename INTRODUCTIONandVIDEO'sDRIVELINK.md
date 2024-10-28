@@ -5,4 +5,4 @@ POWER BI INFORMATION VISUALIZATION PROJECT
 The outcomes aspect focuses on academic performance, graduation rates, college readiness, and overall success in education. It evaluates how equitable access (or lack thereof) impacts student achievement, engagement, and long-term opportunities. The report may also include discussions of policy changes, interventions, and systemic reforms aimed at achieving greater fairness in education.
 In essence, it provides a data-driven look at how well different populations are served by the education system and what steps are needed to achieve true equity in education.
 
-Drive Link: https://docs.google.com/presentation/d/1xb5TOFcJaSha5uhfjP0pY5h8BscoyHOW/edit?usp=sharing&ouid=114121833279651572144&rtpof=true&sd=true
+Video's Drive Link: https://docs.google.com/presentation/d/1xb5TOFcJaSha5uhfjP0pY5h8BscoyHOW/edit?usp=sharing&ouid=114121833279651572144&rtpof=true&sd=true
