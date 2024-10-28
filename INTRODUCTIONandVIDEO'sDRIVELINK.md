@@ -6,3 +6,5 @@ The outcomes aspect focuses on academic performance, graduation rates, college r
 In essence, it provides a data-driven look at how well different populations are served by the education system and what steps are needed to achieve true equity in education.
 
 Video's Drive Link: https://docs.google.com/presentation/d/1xb5TOFcJaSha5uhfjP0pY5h8BscoyHOW/edit?usp=sharing&ouid=114121833279651572144&rtpof=true&sd=true
+
+To access the Video's Drive Link please Download it first 
